@@ -1,0 +1,4 @@
+la conectare clientul trimite un pachet
+serverul trebuie sa stie ca primul pachet trebuie deschis
+pachetul contine string "server" sau "client" si un cod
+
